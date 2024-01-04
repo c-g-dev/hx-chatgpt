@@ -1,15 +1,16 @@
 {
     "name": "hx-chatgpt",
-    "description": "",
+    "url" : "https://github.com/cardgdev/hx-chatgpt",
+    "description": "Simple wrapper for the ChatGPT completion API HTTP endpoint",
     "license": "MIT",
     "tags": [
-      "ai", "cross", "utility"
+      "http", "ai", "cross", "utility"
     ],
     "classPath": "src",
     "contributors": [
       "cgdev"
     ],
-    "releasenote": "Initial release",
-    "version": "0.0.1",
+    "releasenote": "Updating haxelib.json",
+    "version": "0.0.2",
     "dependencies": {}
   }
