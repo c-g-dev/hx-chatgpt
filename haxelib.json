@@ -6,7 +6,7 @@
     "tags": [
       "http", "ai", "cross", "utility"
     ],
-    "classPath": "src",
+    "classPath": "src/",
     "contributors": [
       "cgdev"
     ],
