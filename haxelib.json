@@ -1,0 +1,15 @@
+{
+    "name": "hx-chatgpt",
+    "description": "",
+    "license": "MIT",
+    "tags": [
+      "ai", "cross", "utility"
+    ],
+    "classPath": "src",
+    "contributors": [
+      "cgdev"
+    ],
+    "releasenote": "Initial release",
+    "version": "0.0.1",
+    "dependencies": {}
+  }
