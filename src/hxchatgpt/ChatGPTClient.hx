@@ -58,6 +58,7 @@ class ChatGPTClient {
             http.onError = (data) -> {
                 errorP.fulfill(data);
             }
+            http.request(true);
             return Promise(successP, errorP);
         #if (target.threaded)
         }
